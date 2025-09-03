@@ -31,10 +31,10 @@
 
 ## 📂 Featured Projects  
 
-- 🏍️ **Bike Price Prediction** → [GitHub Repo](#)  
+- 🏍️ **Bike Price Prediction** → [()](#)  
    *Built a regression model to predict bike prices using ML algorithms.*  
 
-- 🧠 **Parkinson’s Disease Detection** → [GitHub Repo](#)  
+- 🧠 **Parkinson’s Disease Detection** → [https://github.com/Farhan2116/Parkinson_Chatbot_ML](#)  
    *Applied SVM, XGBoost, and Random Forest on voice datasets for early diagnosis.*  
 
 - 💬 **AI Health Assistant (In Progress)** → [GitHub Repo](#)  
@@ -51,9 +51,9 @@
 
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-link)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yourmail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/farhan-mahidi-shaik-119a99247)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:farhanshaik1467@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1ZpV1QxyVuaUe7DpZqdO36lD1pY-JG5KI/view?usp=sharing)  
 
 ---
 
